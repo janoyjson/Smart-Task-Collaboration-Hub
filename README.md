@@ -1,1 +1,1 @@
-# Smart-Task-Collaboration-Hub
+Smart Task & Collaboration Hub is a cloud-based project management platform that helps teams organize projects, assign tasks, monitor progress, and collaborate more effectively. Built with React, Node.js, Express, PostgreSQL, Docker, and AWS services such as EC2, RDS, Lambda, SQS, Kinesis, Bedrock, and S3, the platform combines workflow automation, analytics, payment integration, and AI-powered assistance to improve productivity and team coordination.
